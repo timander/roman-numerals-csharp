@@ -1,0 +1,7 @@
+s:\home\timander\documents\visual studio 2013\Projects\RomanNumerals\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+s:\home\timander\documents\visual studio 2013\Projects\RomanNumerals\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+s:\home\timander\documents\visual studio 2013\Projects\RomanNumerals\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+s:\home\timander\documents\visual studio 2013\Projects\RomanNumerals\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+s:\home\timander\documents\visual studio 2013\Projects\RomanNumerals\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+s:\home\timander\Documents\Visual Studio 2013\Projects\RomanNumerals\ClassLibrary1\bin\Debug\nunit.framework.dll
+s:\home\timander\Documents\Visual Studio 2013\Projects\RomanNumerals\ClassLibrary1\bin\Debug\nunit.framework.xml
